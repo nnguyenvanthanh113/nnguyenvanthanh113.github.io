@@ -251,6 +251,7 @@ span {
     -moz-animation: balloon1 4s ease-in-out infinite;
     -o-animation: balloon1 4s ease-in-out infinite;
     animation: balloon1 4s ease-in-out infinite;
+	align:center;
 }
 .balloon > div:before {
     color: rgba(182, 15, 97, 0.9);
