@@ -12,5 +12,19 @@
         "text": "Hazzd Bin",
         "img":"img/mucis2.jpg",
         "audio":"Voices2.mp3"
+    },
+    {
+        "rating": "4.5",
+        "title" : "THE WATER CURE",
+        "text": "martin Hyatt",
+        "img":"img/mucis1.jpg",
+        "audio":"Voices1.mp3"
+    },
+    {
+        "rating": "4.6",
+        "title" : "My Love",
+        "text": "Hazzd Bin",
+        "img":"img/mucis2.jpg",
+        "audio":"Voices2.mp3"
     }
 ]
